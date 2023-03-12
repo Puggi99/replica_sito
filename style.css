@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Tilt+Warp&display=swap');
+
+body {
+    background-color: rgb(22, 22, 29);
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: larger;
+    text-align: center;
+    display: grid;
+    margin: 0;
+}
+
+header {
+    background-color: rgb(39, 39, 46);
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    font-size: x-large;
+    border-bottom: 1px solid white;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header h1 {
+    font-family: 'Tilt Warp', cursive;
+}
+
+.mail{
+    display: inline-block;
+    padding: 0px 10px;
+    margin: 1px 1px 15px 10px;
+    border: 1px solid white;
+    border-radius: 10%;
+    border-color: rgb(248, 248, 255);
+}
+.mail a{
+    color:rgb(248, 248, 255)
+}
+
+.overwiev{
+    display: inline-block;
+    max-width: 50%;
+    align-items: center;
+    text-align:justify;
+    font-size: x-large;
+    padding-bottom: 1%;
+    border-bottom: 1px solid white;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+
+
+.contents{
+    display: inline-block;
+    width: 50%;
+    align-items: center;
+    text-align:justify;
+    font-size: x-large;
+    padding-bottom: 5%;
+    border-bottom: 1px solid white; 
+    color: rgb(211, 188, 55); 
+    
+}
+
+.contents a{
+    color: rgb(250, 255, 199);
+    font-family: 'Open Sans', sans-serif;
+}
+
+body h2{
+    font-family: 'Tilt Warp', cursive;
+    font-size: 60px;
+    text-align: left;
+    display: inline-block;
+    margin-top: 5%;
+    color: white;
+    width:50%;
+}
+
+#availability{
+    display: inline-block;
+    width: 50%;
+    align-items: center;
+    text-align:justify;
+    font-size: x-large;
+    padding-bottom: 5%;
+    border-bottom: 1px solid white; 
+    font-family: 'Open Sans', sans-serif;
+}
+
+.backtotop a{
+    color: rgb(248, 248, 255);
+    font-family: 'Open Sans', sans-serif;
+    font-size: x-large;
+    
+  
+}
+
+
+ 
+table{
+    align-items: center;
+    width: 50%;
+    border-left: 1px solid white;
+    border-top:  1px solid white;
+    display: inline-block;
+    border-width: 50% 50% 50% 50%;
+       border-bottom: 1px solid white;
+    
+}
+thead{
+    border-bottom: 1px solid white;
+    padding: 5px 0px 5px 10px;
+    font-weight: bold;
+    width: 50%;
+    background-color: rgba(128, 128, 128, 0.521);
+}
+td{
+    padding: 5px 0px 5px 10px;
+    border-right:1px solid white;
+
+    width: 10%;
+    
+}
+
+.lineagrigia{
+    background-color: rgba(128, 128, 128, 0.521);
+}
+
+.backtotop{
+    padding-top: 5%;
+}
+.lineagrigia1{
+    border-bottom: 1px solid white;
+    padding-bottom: 5%;
+    display: inline-block;
+    min-width: 50%;
+    align-items: center;
+   
+}
+
+#Tools{
+    display: inline-block;
+    width: 50%;
+    align-items: center;
+    text-align:justify;
+    font-size: x-large;
+    padding-bottom: 1%;
+   
+    font-family: 'Open Sans', sans-serif;
+}
+
+details{
+    background-color: rgba(128, 128, 128, 0.521);
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+    border-right: 1px solid white;
+    padding: 10px 5px 10px 10px;
+    font-family: 'Tilt Warp', cursive;
+
+}
+
+.testosummary{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+.multi-column{
+    columns: 2;
+    text-align:justify;
+    display: inline-block;
+    align-items: center;
+}
+
+#Microsoft{
+    display: inline-block;
+    width: 50%;
+    align-items: center;
+    text-align:justify;
+    font-size: x-large;
+    padding-bottom: 1%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+#UNIX{
+    padding-bottom: 10%;
+    border-bottom: 1px solid white; 
+}
+#Interests{
+    display: inline-block;
+    align-items: center;
+    text-align:justify;
+    font-size: x-large;
+    padding-bottom: 5%;
+    border-bottom: 1px solid white; 
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 1%;
+  
+}
+
+#howto{
+    display: inline-block;
+    align-items: center;
+    text-align:justify;
+    font-size: x-large;
+    padding-bottom: 5%;
+    border-bottom: 1px solid white; 
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 1%;
+}
+
+.font1{
+    font-family: 'Tilt Warp', cursive;
+    color: white; 
+}
+
+#Compensation{
+    display: inline-block;
+    align-items: center;
+    text-align:justify;
+    font-size: x-large;
+    padding-bottom: 5%;
+    border-bottom: 1px solid white; 
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 1%;
+}
+
+#Location{
+    display: inline-block;
+    align-items: center;
+    text-align:justify;
+    font-size: x-large;
+    padding-bottom: 5%;
+    border-bottom: 1px solid white; 
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 1%;
+}
+
+#Aboutthis{
+    display: inline-block;
+    align-items: center;
+    text-align:justify;
+    font-size: x-large;
+    padding-bottom: 15%;
+    border-bottom: 1px solid white; 
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 1%;
+}
+
+#Aboutthis a{
+    color: rgb(250, 255, 199)
+}
+
+#Aboutthis backtotop{
+    color: rgb(248, 248, 255);
+}
+
+footer{  
+    font-size: small;
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer a{
+    color: rgb(250, 255, 199);
+}
